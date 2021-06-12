@@ -43,12 +43,10 @@ Once you enrolled to the course, you are invited to join a slack workspace for t
 Please join the Slack workspace by going to the following link [deeplearningai-nlp.slack.com](https://deeplearningai-nlp.slack.com)
 This Slack workspace includes all courses of this specialization.
 # Contact Information
-- Twitter: [@IbrahimJelliti](https://twitter.com/IbrahimJelliti)
-- LinkedIn: [@ibrahimjelliti](https://www.linkedin.com/in/ibrahimjelliti/)
-- the specialization slack channel:  @ibrahim 
+
+- LinkedIn: [@Irfan](https://www.linkedin.com/in/irfan-mansuri-130687180/)
 # Stargazers over Time
 [![Stargazers over time](https://starchart.cc/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization.svg)](https://starchart.cc/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization)
 <br/>
 
 
-Ibrahim Jelliti © 2020
