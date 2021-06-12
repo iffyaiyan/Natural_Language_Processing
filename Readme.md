@@ -1,17 +1,12 @@
-# My GAN Specialization repository
-[**Click on the image**](https://github.com/ijelliti/Deeplearning.ai-Generative-Adversarial-Networks-Specialization)
-[![](https://raw.githubusercontent.com/ijelliti/Deeplearning.ai-Generative-Adversarial-Networks-Specialization/master/GAN-banner.jpg)](https://github.com/ijelliti/Deeplearning.ai-Generative-Adversarial-Networks-Specialization)
-![](banner.jpg)
-#
 # DeepLearning.ai NLP Specialization Courses Notes
 This repository contains my personal notes on [DeepLearning.ai](https://deeplearning.ai) NLP specialization courses.
 
 [DeepLearning.ai](https://deeplearning.ai) contains four courses which can be taken on [Coursera](https://www.coursera.org/specializations/natural-language-processing). The four courses are:
 
-1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization/tree/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
-2. [Natural Language Processing with Probabilistic Models](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization/tree/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models)
-3. [Natural Language Processing with Sequence Models](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization/tree/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models)
-4. [Natural Language Processing with Attention Models](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization/tree/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models)
+1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/iffyaiyan/Natural_Language_Processing/tree/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+2. [Natural Language Processing with Probabilistic Models](https://github.com/iffyaiyan/Natural_Language_Processing/tree/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+3. [Natural Language Processing with Sequence Models](https://github.com/iffyaiyan/Natural_Language_Processing/tree/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models)
+4. [Natural Language Processing with Attention Models](https://github.com/iffyaiyan/Natural_Language_Processing/tree/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models)
 
 
 # About This Specialization (From the official NLP Specialization page)
@@ -41,8 +36,6 @@ The assignment notebooks are subject to changes through time.
 # Contact Information
 
 - LinkedIn: [@Irfan](https://www.linkedin.com/in/irfan-mansuri-130687180/)
-# Stargazers over Time
-[![Stargazers over time](https://starchart.cc/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization.svg)](https://starchart.cc/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization)
-<br/>
+
 
 
