@@ -38,10 +38,6 @@ Enjoy!
 I share the assignment notebooks with my prefilled and from the contributors code structred as in the course Course/Week
 The assignment notebooks are subject to changes through time.
 
-# Connect with your mentors and fellow learners on Slack!
-Once you enrolled to the course, you are invited to join a slack workspace for this specialization:
-Please join the Slack workspace by going to the following link [deeplearningai-nlp.slack.com](https://deeplearningai-nlp.slack.com)
-This Slack workspace includes all courses of this specialization.
 # Contact Information
 
 - LinkedIn: [@Irfan](https://www.linkedin.com/in/irfan-mansuri-130687180/)
